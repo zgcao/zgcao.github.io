@@ -8,13 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I shared some publically avaiable in-situ dataset in oceanic, coastal, and inland waters here.
 
-Heading 1
+GLORIA
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* GLORIA - A globally representative hyperspectral in situ dataset for optical sensing of water quality, https://www.nature.com/articles/s41597-023-01973-y
