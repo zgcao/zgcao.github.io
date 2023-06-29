@@ -22,7 +22,7 @@ Peer-reveiwed articles
 
 **Cao, Z.**, Ma RH, Liu JQ, et al. Improved radiometric and spatial capabilities of the coastal zone imager onboard chinese hy-1c satellite for inland lakes. IEEE Geosci Remote Sens Lett 2021, 18: 193-197
 
-Liu M, Ling H, Wu D, **Cao\*, Z.** Sentinel-2 and landsat-8 observations for harmful algae blooms in a small eutrophic lake. Remote Sensing, 2021, 13: 4479
+Liu M, Ling H, Wu D, **Cao, Z.\*** Sentinel-2 and landsat-8 observations for harmful algae blooms in a small eutrophic lake. Remote Sensing, 2021, 13: 4479
 
 **Cao, Z.**, Melack, J.M., Liu, M., Duan, H., & Ma, R. (2021). Spatial and seasonal variability of chlorophyll a in different-sized lakes across eastern China. Inland Waters, 12, 205-214
 
