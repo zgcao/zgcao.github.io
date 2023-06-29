@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,19 +9,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cartography and Geographical Information System (2017-2020)
+* Ph.D. in Cartography and Geographical Information System (2017-2020),
   University of Chinese Academy of Sciences, Superviser: Ronghua Ma
   
-* Visiting scholar in Geography (2019-2020)
+* Visiting scholar in Geography (2019-2020),
   Earth Research Institute, UC Santa Barbara, Superviser: John M. Melack.
   
-* M.S. in Cartography and Geographical Information System (2014-2017)
+* M.S. in Cartography and Geographical Information System (2014-2017),
   University of Chinese Academy of Sciences, Superviser: Hongtao Duan
 
-* B.S. in Geographical Information System(2010-2014)
+* B.S. in Geographical Information System(2010-2014),
   Anhui Normal University
 
-Preofessional Employment
+Professional Employment
 ======
 * 2020-present:	Research scientist, Nanjing Institute of Geography and Limnology, CAS
 
