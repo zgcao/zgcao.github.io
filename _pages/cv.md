@@ -37,22 +37,20 @@ Projects
 
 Awards
 ======
-*2020, CAS Presidential Scholarship (Special Prize)
+* 2020, Chinese Academy of Sciences Presidential Scholarship (Special Prize)
 
-*2021, Excellent Ph.D. dissertation of Chinese Academy of Science
+* 2021, Excellent Ph.D. dissertation of Chinese Academy of Science
 
-*2021, Outstanding Young Scholar Award, by Jiangsu Society for Geography
+* 2021, Outstanding Young Scholar Award, by Jiangsu Society for Geography
 
 Editorial Service
 ======
-*Associate editor, Frontiers in Remote sening (2023-present)
+* Associate editor, Frontiers in Remote sensing (2023-present)
 
-*Guest Editor, International Journal of Applied Earth Observation and Geoinformation (2022)
+* Guest Editor, International Journal of Applied Earth Observation and Geoinformation (2022)
 
 Professional Skills
 ======
-Software: Google Earth Engine, ArcGIS, QGIS, ENVI
-
-Machine learning: TensorFlow, Scikit-learn
-
-Programming: Linux shell, Python, Matlab, IDL
+* Software: Google Earth Engine, ArcGIS, QGIS, ENVI
+* Programming: Linux shell, Python, Matlab, IDL
+* Professional skills: SeaDAS, SNAP, ACOLITE, AccuRT
