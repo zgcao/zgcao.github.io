@@ -4,7 +4,7 @@ collection: Dataset
 type: "Limnology;Geography"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NIGLAS"
-date: 2023
+date: 2023-01-01
 ---
 
 I shared some publically avaiable in-situ dataset in oceanic, coastal, and inland waters here.
