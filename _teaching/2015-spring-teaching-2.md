@@ -3,6 +3,7 @@ title: "Satellite Products"
 collection: Dataset
 type: "Limnology;Geography"
 permalink: /teaching/2015-spring-teaching-1
+date: 2023
 venue: "NIGLAS"
 ---
 
