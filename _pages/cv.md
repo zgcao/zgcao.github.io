@@ -27,7 +27,7 @@ Professional Employment
 
 Research Interesets
 ======
-*Aquatic Remote Sensing; Water Optics; Satellite validation; Lake color; Harmful algae
+* Aquatic Remote Sensing; Water Optics; Satellite validation; Lake color; Harmful algae
 
 Projects
 ======
