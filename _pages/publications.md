@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-Selected Peer-reveiwed articles(Co-author:~60, First-author: 14)
+Selected Peer-reveiwed articles
 ======
 (Please see the full list from my [Google Scholar](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en)))
 
