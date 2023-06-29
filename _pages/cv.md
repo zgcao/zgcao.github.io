@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
 Education
 ======
 * Ph.D. in GIS, UCAS, Superviser: Ronghua Ma
@@ -21,8 +18,12 @@ Education
 Work experience
 ======
 * 2020-present:	Research scientist, NIGLAS
-  
-Academic Awards
+
+Projects
+======
+* NSFC, etc.
+
+Awards
 ======
 2020    中国科学院院长特别奖
 
