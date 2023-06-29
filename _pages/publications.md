@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-reveiwed articles
+
+Selected Peer-reveiwed articles(Co-author:~60, First-author: 14)
 ======
 
 **Cao, Z.**, Melack, J., Liu, M., Duan, H., Kutser, T., Ma, R. (2023). Shifts, Trends, and Drivers of Lake Color Across China Since the 1980s. Geophysical Research Letters, 50, e2023GL103225
@@ -18,7 +19,7 @@ Peer-reveiwed articles
 
 **Cao, Z.**, Ma, R., Liu, J., & Ding, J. (2021). Improved Radiometric and Spatial Capabilities of the Coastal Zone Imager Onboard Chinese HY-1C Satellite for Inland Lakes. IEEE Geoscience and Remote Sensing Letters, 18, 193-197
 
-**Cao, Z.**, Ma RH, Liu JQ, et al. Improved radiometric and spatial capabilities of the coastal zone imager onboard chinese hy-1c satellite for inland lakes. IEEE Geosci Remote Sens Lett 2021, 18: 193-197
+**Cao, Z.**, Ma R., Liu J., et al. Improved radiometric and spatial capabilities of the coastal zone imager onboard chinese hy-1c satellite for inland lakes. IEEE Geosci Remote Sens Lett 2021, 18: 193-197
 
 Liu M, Ling H, Wu D, **Cao, Z.\*** Sentinel-2 and landsat-8 observations for harmful algae blooms in a small eutrophic lake. Remote Sensing, 2021, 13: 4479
 
@@ -28,7 +29,7 @@ Liu M, Ling H, Wu D, **Cao, Z.\*** Sentinel-2 and landsat-8 observations for har
 
 **Cao, Z.**, Ma, R., Duan, H., & Xue, K. (2019). Effects of broad bandwidth on the remote sensing of inland waters: Implications for high spatial resolution satellite data applications. ISPRS Journal of Photogrammetry and Remote Sensing, 153, 110-122
 
-**Cao, Z.**, Ma RH, Duan HT, et al. Effect of satellite temporal resolution on long-term suspended particulate matter in inland lakes. Remote Sensing, 2019, 11, 23, 2785
+**Cao, Z.**, Ma R., Duan H., et al. Effect of satellite temporal resolution on long-term suspended particulate matter in inland lakes. Remote Sensing, 2019, 11, 23, 2785
 
 **Cao, Z.**, Duan, H., Shen, M., Ma, R., Xue, K., Liu, D., & Xiao, Q. (2018). Using VIIRS/NPP and MODIS/Aqua data to provide a continuous record of suspended particulate matter in a highly turbid inland lake. International Journal of Applied Earth Observation and Geoinformation, 64, 256-265
 
