@@ -8,7 +8,7 @@ author_profile: true
 Peer-reveiwed articles
 ======
 
-(You can also find my articles on <u><a href="{{[author.googleschola](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en)r}}">my Google Scholar profile</a>.</u>)
+(You can also find my articles on [Google Scholar]([https://scholar.google.com/citations?user=9uOVVFgAAAAJ&hl=en])).
 
 **Cao, Z.**, Melack, J., Liu, M., Duan, H., Kutser, T., Ma, R. (2023). Shifts, Trends, and Drivers of Lake Color Across China Since the 1980s. Geophysical Research Letters, 50, e2023GL103225
 
