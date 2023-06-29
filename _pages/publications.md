@@ -7,9 +7,9 @@ author_profile: true
 
 Peer-reveiwed articles
 ======
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googleschola](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en)r}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+(You can also find my articles on <u><a href="{{[author.googleschola](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en)r}}">my Google Scholar profile</a>.</u>)
+
 **Cao, Z.**, Melack, J., Liu, M., Duan, H., Kutser, T., Ma, R. (2023). Shifts, Trends, and Drivers of Lake Color Across China Since the 1980s. Geophysical Research Letters, 50, e2023GL103225
 
 **Cao, Z.**, Shen, M., Kutser, T., Liu, M., Qi, T., Ma, J., Ma, R., & Duan, H. (2022). What water color parameters could be mapped using MODIS land reflectance products: A global evaluation over coastal and inland waters. Earth-Science Reviews, 232, 104154
