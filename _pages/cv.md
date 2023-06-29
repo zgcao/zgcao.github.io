@@ -9,25 +9,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in GIS, UCAS, Superviser: Ronghua Ma
+* Ph.D. in Cartography and Geographical Information System (2017-2020)
+  University of Chinese Academy of Sciences, Superviser: Ronghua Ma
   
-* M.S. in GIS, UCAS, Superviser: Hongtao Duan
+* Visiting scholar in Geography (2019-2020)
+  Earth Research Institute, UC Santa Barbara, Superviser: John M. Melack.
+  
+* M.S. in Cartography and Geographical Information System (2014-2017)
+  University of Chinese Academy of Sciences, Superviser: Hongtao Duan
 
-* B.S. in GIS, AHNU
+* B.S. in Geographical Information System(2010-2014)
+  Anhui Normal University
 
-Work experience
+Preofessional Employment
 ======
-* 2020-present:	Research scientist, NIGLAS
+* 2020-present:	Research scientist, Nanjing Institute of Geography and Limnology, CAS
+
+Research Interesets
+======
+*Aquatic Remote Sensing; Water Optics; Satellite validation; Lake color; Harmful algae
 
 Projects
 ======
-* NSFC, etc.
+* 2021, Young Project, National Natural Science Foundation of China (42101378), Hosted
+
+* 2021, Young Project, Natural Science Foundation of Jiangsu Province (BK20210989), Hosted
 
 Awards
 ======
-2020    中国科学院院长特别奖
+*2020, CAS Presidential Scholarship (Special Prize)
 
-2021    中国科学院百篇优秀博士论文
+*2021, Excellent Ph.D. dissertation of Chinese Academy of Science
+
+*2021, Outstanding Young Scholar Award, by Jiangsu Society for Geography
+
+Editorial Service
+======
+*Associate editor, Frontiers in Remote sening (2023-present)
+
+*Guest Editor, International Journal of Applied Earth Observation and Geoinformation (2022)
 
 Professional Skills
 ======
