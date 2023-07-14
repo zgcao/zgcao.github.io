@@ -8,7 +8,7 @@ Selected Peer-reveiwed articles
 ======
 (Please see the full list from my [Google Scholar](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en))
 
-**Cao, Z.** Hu, C., Ma, R., Duan, H., Liu, M., Loiselle, S., Song, K., Shen, M., Liu, D., Xue, K. (2023). MODIS observations reveal decrease in lake suspended particulate matter across China over the past two decades. Remote Sensing of Environment. Minor revision.
+**Cao, Z.** Hu, C., Ma, R., Duan, H., Liu, M., Loiselle, S., Song, K., Shen, M., Liu, D., Xue, K. (2023). MODIS observations reveal decrease in lake suspended particulate matter across China over the past two decades. Remote Sensing of Environment. Accept.
 
 **Cao, Z.**, Duan. H., Ma, R., Shen, M., Yang, H., (2023), Remarkable effects of greening watershed on reducing suspended sediment flux in China major rivers, Science Bulletin. Accept.
 
