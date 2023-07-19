@@ -28,7 +28,7 @@ Liu M, Ling H, Wu D, **Cao, Z.\*** Sentinel-2 and landsat-8 observations for har
 
 **Cao, Z.**, Melack, J.M., Liu, M., Duan, H., & Ma, R. (2021). Spatial and seasonal variability of chlorophyll a in different-sized lakes across eastern China. Inland Waters, 12, 205-214
 
-**Cao, Z.**, Ma, R., Duan, H., Pahlevan, N., Melack, J., Shen, M., & Xue, K. (2020). A machine learning approach to estimate chlorophyll-a from Landsat-8 measurements in inland lakes. Remote Sensing of Environment, 248, 111974. (ESI高被引）.
+**Cao, Z.**, Ma, R., Duan, H., Pahlevan, N., Melack, J., Shen, M., & Xue, K. (2020). A machine learning approach to estimate chlorophyll-a from Landsat-8 measurements in inland lakes. Remote Sensing of Environment, 248, 111974. (ESI 1%; Most cited RSE paper in latest 3 years）.
 
 **Cao, Z.**, Ma, R., Duan, H., & Xue, K. (2019). Effects of broad bandwidth on the remote sensing of inland waters: Implications for high spatial resolution satellite data applications. ISPRS Journal of Photogrammetry and Remote Sensing, 153, 110-122
 
