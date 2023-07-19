@@ -1,4 +1,3 @@
-![1689776861171](https://github.com/zgcao/zgcao.github.io/assets/13210518/24138768-1b36-4ed2-9135-9887f19e24b9)---
 permalink: /
 title: ""
 excerpt: "About me"
