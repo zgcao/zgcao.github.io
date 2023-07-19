@@ -1,4 +1,4 @@
----
+![1689776861171](https://github.com/zgcao/zgcao.github.io/assets/13210518/24138768-1b36-4ed2-9135-9887f19e24b9)---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -14,6 +14,8 @@ I am Zhigang Cao (曹志刚)! A research scientist in Nanjing Institute of geogr
 
 News and posts
 ======
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/RSE?src=hash&amp;ref_src=twsrc%5Etfw">#RSE</a> paper using <a href="https://twitter.com/hashtag/Lansat?src=hash&amp;ref_src=twsrc%5Etfw">#Lansat</a> to retrieve <a href="https://twitter.com/hashtag/Chlorophyll?src=hash&amp;ref_src=twsrc%5Etfw">#Chlorophyll</a>-a in lakes is the most cited RSE articles published in the past 3 years! How amazing! Everyone can read it: <a href="https://t.co/JHdEHgZdzq">https://t.co/JHdEHgZdzq</a> <a href="https://t.co/zcv6CnfbxV">pic.twitter.com/zcv6CnfbxV</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1681672319326904324?ref_src=twsrc%5Etfw">July 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We used <a href="https://twitter.com/hashtag/Landsat?src=hash&amp;ref_src=twsrc%5Etfw">#Landsat</a> mission to investigate the shifts in water color of lakes across China since the 1980s. Our results reveal a widespread decline in visual dominant wavelength for all examined ~2500 lakes. Everyone can access it freely in <a href="https://twitter.com/hashtag/GRL?src=hash&amp;ref_src=twsrc%5Etfw">#GRL</a> <a href="https://twitter.com/hashtag/AGU?src=hash&amp;ref_src=twsrc%5Etfw">#AGU</a>.<a href="https://t.co/XtgQJpHACW">https://t.co/XtgQJpHACW</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1651256715206344704?ref_src=twsrc%5Etfw">April 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
