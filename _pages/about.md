@@ -14,6 +14,8 @@ I am Zhigang Cao (曹志刚)! A research scientist in Nanjing Institute of geogr
 
 News and posts
 ======
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new paper using MODIS to reveal the decliding sediments in more than 65% China lakes since 2002. We used <a href="https://twitter.com/hashtag/SeaDAS?src=hash&amp;ref_src=twsrc%5Etfw">#SeaDAS</a> to process the MODIS data offline and developed a machine learning based on ten years of field survey. The paper can be avaiable freely via: <a href="https://t.co/QyLwQ1wnsy">https://t.co/QyLwQ1wnsy</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1682306383348371456?ref_src=twsrc%5Etfw">July 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/RSE?src=hash&amp;ref_src=twsrc%5Etfw">#RSE</a> paper using <a href="https://twitter.com/hashtag/Lansat?src=hash&amp;ref_src=twsrc%5Etfw">#Lansat</a> to retrieve <a href="https://twitter.com/hashtag/Chlorophyll?src=hash&amp;ref_src=twsrc%5Etfw">#Chlorophyll</a>-a in lakes is the most cited RSE articles published in the past 3 years! How amazing! Everyone can read it: <a href="https://t.co/JHdEHgZdzq">https://t.co/JHdEHgZdzq</a> <a href="https://t.co/zcv6CnfbxV">pic.twitter.com/zcv6CnfbxV</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1681672319326904324?ref_src=twsrc%5Etfw">July 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
