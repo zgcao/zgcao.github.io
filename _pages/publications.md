@@ -10,7 +10,7 @@ Selected Peer-reveiwed articles
 
 **Cao, Z.** Hu, C., Ma, R., Duan, H., Liu, M., Loiselle, S., Song, K., Shen, M., Liu, D., Xue, K. (2023). MODIS observations reveal decrease in lake suspended particulate matter across China over the past two decades. Remote Sensing of Environment. 295, 113724.
 
-**Cao, Z.**, Duan. H., Ma, R., Shen, M., Yang, H., (2023), Remarkable effects of greening watershed on reducing suspended sediment flux in China major rivers, Science Bulletin. Accept.
+**Cao, Z.**, Duan. H., Ma, R., Shen, M., Yang, H., (2023), Remarkable effects of greening watershed on reducing suspended sediment flux in China major rivers, Science Bulletin. 68(20):2285-2288.
 
 **Cao, Z.**, Melack, J., Liu, M., Duan, H., Kutser, T., Ma, R. (2023). Shifts, Trends, and Drivers of Lake Color Across China Since the 1980s. Geophysical Research Letters, 50, e2023GL103225
 
