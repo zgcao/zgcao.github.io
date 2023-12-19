@@ -8,13 +8,15 @@ Selected Peer-reveiwed articles
 ======
 (Please see the full list from my [Google Scholar](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en))
 
+**Cao, Z.**, Wang, M., Ma, R., Zhang, Y., Duan, H., Jiang, L., Xue, K., Xiong, J., Hu, M. (2024). A decade-long chlorophyll-a data record in lakes across China from VIIRS observations. Remote Sensing of Environment. 301. 113953.
+
 **Cao, Z.** Hu, C., Ma, R., Duan, H., Liu, M., Loiselle, S., Song, K., Shen, M., Liu, D., Xue, K. (2023). MODIS observations reveal decrease in lake suspended particulate matter across China over the past two decades. Remote Sensing of Environment. 295, 113724.
 
 **Cao, Z.**, Duan. H., Ma, R., Shen, M., Yang, H., (2023), Remarkable effects of greening watershed on reducing suspended sediment flux in China major rivers, Science Bulletin. 68(20):2285-2288.
 
 **Cao, Z.**, Melack, J., Liu, M., Duan, H., Kutser, T., Ma, R. (2023). Shifts, Trends, and Drivers of Lake Color Across China Since the 1980s. Geophysical Research Letters, 50, e2023GL103225
 
-**Cao, Z.**, Shen, M., Kutser, T., Liu, M., Qi, T., Ma, J., Ma, R., & Duan, H. (2022). What water color parameters could be mapped using MODIS land reflectance products: A global evaluation over coastal and inland waters. Earth-Science Reviews, 232, 104154
+**Cao, Z.**, Shen, M., Kutser, T., Liu, M., Qi, T., Ma, J., Ma, R., & Duan, H. (2022). What water color parameters could be mapped using MODIS land reflectance products: A global evaluation over coastal and inland waters. Earth-Science Reviews, 232, 104154.
 
 **Cao, Z.**, Ma, R., Liu, M., Duan, H., Xiao, Q., Xue, K., & Shen, M. (2022). Harmonized Chlorophyll-a Retrievals in Inland Lakes from Landsat-8/9 and Sentinel 2A/B Virtual Constellation through Machine Learning. IEEE Transactions on Geoscience and Remote Sensing, 60, 4209916
 
