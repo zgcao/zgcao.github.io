@@ -14,6 +14,9 @@ I am Zhigang Cao (曹志刚)! A research scientist in Nanjing Institute of geogr
 
 News and posts
 ======
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s been tricky to get chlorophyll-a time series in lakes from satellite images. We used <a href="https://twitter.com/NOAA?ref_src=twsrc%5Etfw">@NOAA</a> <a href="https://twitter.com/hashtag/VIIRS?src=hash&amp;ref_src=twsrc%5Etfw">#VIIRS</a> and <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> to generate a decadal data record of <a href="https://twitter.com/hashtag/chlorophylla?src=hash&amp;ref_src=twsrc%5Etfw">#chlorophylla</a> in ~220 large lakes in China. The paper is officially online in <a href="https://twitter.com/hashtag/RSE?src=hash&amp;ref_src=twsrc%5Etfw">#RSE</a>. <a href="https://t.co/Ud44owK6OB">https://t.co/Ud44owK6OB</a> <a href="https://t.co/VYCbRcQlfd">pic.twitter.com/VYCbRcQlfd</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1737137747532607514?ref_src=twsrc%5Etfw">December 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new paper using MODIS to reveal the decliding sediments in more than 65% China lakes since 2002. We used <a href="https://twitter.com/hashtag/SeaDAS?src=hash&amp;ref_src=twsrc%5Etfw">#SeaDAS</a> to process the MODIS data offline and developed a machine learning based on ten years of field survey. The paper can be avaiable freely via: <a href="https://t.co/QyLwQ1wnsy">https://t.co/QyLwQ1wnsy</a></p>&mdash; Zhigang Cao (@zhigang_cao) <a href="https://twitter.com/zhigang_cao/status/1682306383348371456?ref_src=twsrc%5Etfw">July 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
