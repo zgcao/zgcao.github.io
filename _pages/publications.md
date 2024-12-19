@@ -9,9 +9,11 @@ Selected Peer-reveiwed articles
 (Please see the full list from my [Google Scholar](https://scholar.google.com/citations?user=ixbPOscAAAAJ&hl=en))
 
 **2025---**
+
 **Cao, Z.**, Wang, M., Ma, R., Duan, H., Jiang, L., Shen, M., Xue, K., & Su, F. (2025). Seamless observations of chlorophyll-a from OLCI and VIIRS measurements in inland lakes. Water Research, 270. https://doi.org/10.1016/j.watres.2024.122825 
 
 **2024---**
+
 Chen, P., **Cao, Z.***, Yang, C., Qiu, Z., Guo, X., & Duan, H. (2024). Satellite observations of surface water dynamics and channel migration in the Yellow River since the 1980s. Journal of Hydrology: Regional Studies, 56, 102029. https://doi.org/10.1016/j.ejrh.2024.102029 
 
 Yuan, J., **Cao, Z.***, Ma, J., Li, Y., Qiu, Y., & Duan, H. (2024, Aug 20). Influence of climate extremes on long-term changes in cyanobacterial blooms in a eutrophic and shallow lake. Science of the Total Environment, 939, 173601. https://doi.org/10.1016/j.scitotenv.2024.173601 
