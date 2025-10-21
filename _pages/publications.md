@@ -12,7 +12,7 @@ Selected Peer-reveiwed articles
 
 Xu, J., **Cao, Z.***, Chen, P., & Duan, H. (2025). Assessment of land adjacency effect correction on deriving aquatic reflectance over river waters from Landsat-8/9 and Sentinel-2 imagery. Optics Express, 33(21). https://doi.org/10.1364/oe.572553
 
-Duan, H.*, **Cao, Z.***, Luo, J., & Shen, M. (2025). AI-driven opportunities and challenges in lake remote sensing. Information Geography, 1(1). https://doi.org/10.1016/j.infgeo.2025.100014
+Duan, H., **Cao, Z.***, Luo, J., & Shen, M. (2025). AI-driven opportunities and challenges in lake remote sensing. Information Geography, 1(1). https://doi.org/10.1016/j.infgeo.2025.100014
 
 Liu, M.#, **Cao, Z.#**, Zhang, Y., Shi, K., Zhou, Y., Duan, H., Ma, R., Qin, B., & Iestyn Woolway, R. (2025). Climate warming and declining water clarity shoal the mixed layer in global lakes. Science Bulletin. https://doi.org/https://doi.org/10.1016/j.scib.2025.08.011
 
